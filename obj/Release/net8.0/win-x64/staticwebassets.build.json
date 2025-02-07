@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "rHoS9VRDCpMhImtugoqS7h5LkWiARGV1AGbjya6bv/4=",
+  "Source": "ProyectoAPI",
+  "BasePath": "_content/ProyectoAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ProyectoAPI\\wwwroot",
+      "Source": "ProyectoAPI",
+      "ContentRoot": "C:\\Users\\Juan\\Documents\\API\\ProyectoAPI\\wwwroot\\",
+      "BasePath": "_content/ProyectoAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Juan\\Documents\\API\\ProyectoAPI\\wwwroot\\pdfs\\Reporte_20240826003926.pdf",
+      "SourceId": "ProyectoAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Juan\\Documents\\API\\ProyectoAPI\\wwwroot\\",
+      "BasePath": "_content/ProyectoAPI",
+      "RelativePath": "pdfs/Reporte_20240826003926.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pdfs\\Reporte_20240826003926.pdf"
+    }
+  ]
+}
